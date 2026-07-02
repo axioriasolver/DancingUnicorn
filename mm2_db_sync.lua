@@ -1,3 +1,5 @@
+-- Full Synchronized Source: decompile(game:GetService("ReplicatedStorage").Database.Sync.Item)
+
 local v1 = {
 	["Gift"] = {
 		["ItemName"] = "Gifts 2015",
