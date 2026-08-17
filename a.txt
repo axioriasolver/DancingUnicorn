@@ -1,0 +1,8 @@
+run_once = False
+
+while True:
+    if not run_once:
+        print("HELLO WORLD!")
+        run_once = True
+        continue
+    break
